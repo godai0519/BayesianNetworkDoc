@@ -1,0 +1,5 @@
+<map id="bayesian/matrix.hpp" name="bayesian/matrix.hpp">
+<area shape="rect" id="node2" href="$cpt_8hpp.html" title="A wrapper class of bn::matrix provides access methods to the CPT (Conditional Probability Table)..." alt="" coords="37,80,158,107"/>
+<area shape="rect" id="node3" href="$make__sample_8hpp.html" title="Make a random sample from network and cpts. " alt="" coords="5,155,189,181"/>
+<area shape="rect" id="node4" href="$rejection__sampling_8hpp.html" title="Infering (Reasoning) any probability $P(Q|E)$ by using Rejection Sampling. " alt="" coords="18,229,177,271"/>
+</map>

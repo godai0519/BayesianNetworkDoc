@@ -1,0 +1,5 @@
+<map id="bayesian/network.hpp" name="bayesian/network.hpp">
+<area shape="rect" id="node2" href="$algorithm_8hpp.html" title="Provide algorithms for networks. " alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node3" href="$rejection__sampling_8hpp.html" title="Infering (Reasoning) any probability $P(Q|E)$ by using Rejection Sampling. " alt="" coords="120,155,279,196"/>
+<area shape="rect" id="node4" href="$make__sample_8hpp.html" title="Make a random sample from network and cpts. " alt="" coords="237,80,421,107"/>
+</map>
